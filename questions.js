@@ -45,7 +45,7 @@ questions =  [
     {"id": 43, "question": "Nudism is perfectly natural.", "effects": {"prog": 1}},
 	{"id": 44, "question": "Humans and animals are not different in intrinsic worth", "effects": {"prog": 1}},
     {"id": 45, "question": "Gender is a social construct, not a natural state of affairs.", "effects": {"prog": 1}},
-    {"id": 46, "question": "Laws based on cultural values, rather than ethical ones, aren't justice.", "effects": {"prog": -1}},
+    {"id": 46, "question": "Laws based on cultural values, rather than ethical ones, aren't justice.", "effects": {"prog": 1}},
     {"id": 47, "question": "Autonomy of body extends even to minors, the mentally ill, and serious criminals.", "effects": {"prog": 1}},
     {"id": 48, "question": "Transgender individuals should not be able to adopt children.", "effects": {"prog": -1}},
 	{"id": 49, "question": "Use of currently illegal drugs, even if legalised would be immoral.", "effects": {"prog": -1}},
