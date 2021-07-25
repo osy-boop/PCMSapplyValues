@@ -37,7 +37,7 @@ questions =  [
     {"id": 35, "question": "Victimless crimes should not be punished.", "effects": {"auth": -0.5}},
     {"id": 36, "question": "The smaller the government, the freer the people.", "effects": {"auth": -0.5}},
     {"id": 37, "question": "Free speech hurts society and should be limited.", "effects": {"auth": 0.5}},
-    {"id": 38, "question": "The police was not made to protect the people, but to uphold the status-quo by force.", "effects": {"auth": -0.5}},
+    {"id": 38, "question": "The existing police force was not made to protect the people, but to protect the system.", "effects": {"auth": -0.5}},
     {"id": 39, "question": "State schools are a bad idea because our state shouldn't be influencing our children.", "effects": {"auth": -0.5}},
     {"id": 40, "question": "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.", "effects": {"prog": 1}},
     {"id": 41, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
