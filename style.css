@@ -14,17 +14,17 @@ body {
     border-width: 20px;
 }
 p {
-    color: #444444;
+    color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
     font-size: 16pt;
     line-height: 1;
     margin: 4pt;
 }
 a{
-    color: #444444;
+    color: #FFFFFF;
 }
 a:hover{
-    color: #444444;
+    color: #FFFFFF;
 }
 p.value-description {
     text-indent: -16pt;
