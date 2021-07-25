@@ -49,7 +49,7 @@ p.question {
 
 }
 h1 {
-    color: #222222;
+    color: #FFFFF;
     font-family: 'Montserrat', sans-serif;
     font-size: 72pt;
     text-align: center;
@@ -61,7 +61,7 @@ h1 {
 	display: none;
 }
 h2 {
-    color: #333333;
+    color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
@@ -229,7 +229,7 @@ span.weight-300 {
     }
 
 	.svgHeader {
-		color: #222222;
+		color: #FFFFFF;
 		font-family: 'Montserrat', sans-serif;
 		text-align: center;
 		margin-top: 0pt;
