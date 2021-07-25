@@ -21,10 +21,10 @@ p {
     margin: 4pt;
 }
 a{
-    color: #2222DD;
+    color: #99aab5;
 }
 a:hover{
-    color: #22DDDD;
+    color: #99aab5;
 }
 p.value-description {
     text-indent: -16pt;
