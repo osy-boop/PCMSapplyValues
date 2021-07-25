@@ -24,7 +24,7 @@ a{
     color: #FFFFFF;
 }
 a:hover{
-    color: #FFFFFF;
+    color: #000000;
 }
 p.value-description {
     text-indent: -16pt;
