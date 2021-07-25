@@ -21,10 +21,10 @@ p {
     margin: 4pt;
 }
 a{
-    color: #000000;
+    color: #99aab5;
 }
 a:hover{
-    color: #000000;
+    color: #99aab5;
 }
 p.value-description {
     text-indent: -16pt;
@@ -32,13 +32,13 @@ p.value-description {
 }
 p.question {
     margin: 16pt auto;
-    color: #000000;
+    color: #FFFFFF;
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
     min-height: 144pt;
-    background-color: #000000;
+    background-color: #99aab5;
     padding: 16pt;
     border-radius: 16pt;
     font-size: 36pt;
