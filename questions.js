@@ -20,7 +20,7 @@ questions =  [
 	{"id": 18, "question": "An economy based on sharing over competetion is more desirable.", "effects": {"right": -0.5}},
 	{"id": 19, "question": "Unions hurt workers more than help them.", "effects": {"right": 0.5}},
     {"id": 20, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 0.5}},
-    {"id": 21, "question": "Taxation should be voluntary or abolished", "effects": {"auth": -0.5}},
+    {"id": 21, "question": "Taxation should be involutary, as it serves the betterment of society", "effects": {"auth": 0.5}},
     {"id": 22, "question": "An autocracy is more desirable than a democracy.", "effects": {"auth": 0.5}},
     {"id": 23, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"auth": 0.5}},
 	{"id": 24, "question": "A person should be able to worship whomever or whatever they want.", "effects": {"auth": -0.5}},
